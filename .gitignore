@@ -1,0 +1,4 @@
+data/
+.venv/
+*.h5ad
+*.rds
